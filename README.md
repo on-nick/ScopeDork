@@ -1,6 +1,6 @@
-# 🔍 dorkforge
+# 🔍 scopedork
 
-DorkForge is a simple and efficient domain-based Google dork generator designed for bug bounty hunters and security researchers.  
+scopedork is a simple and efficient domain-based Google dork generator designed for bug bounty hunters and security researchers.  
 It automates the process of crafting Google dorks by injecting a target domain into pre-defined reconnaissance queries.
 
 ---
@@ -31,6 +31,6 @@ It automates the process of crafting Google dorks by injecting a target domain i
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/DorkForge.git
-cd dorkforge
-python3 dorkforge.py
+git clone https://github.com/yourusername/scopedork.git
+cd scopedork
+python3 scopedork.py
